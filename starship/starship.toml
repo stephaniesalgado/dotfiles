@@ -1,0 +1,18 @@
+# ~/.dotfiles/starship/starship.toml
+
+# Disable the newline at the start of the prompt
+add_newline = false
+
+# Set the prompt character
+[character]
+success_symbol = "[➜](bold green)"
+error_symbol = "[➜](bold red)"
+
+# Customize the git status
+[git_status]
+disabled = false
+
+# Customize the directory display
+[directory]
+truncation_length = 3
+
