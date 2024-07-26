@@ -10,5 +10,6 @@ export PATH="/opt/homebrew/bin:$PATH"
 alias python="python3"
 alias pip="pip3"
 
-alias bt="bat"
-alias ez="eza --color=always --long --git --no-filesize --icons=always --no-time --no-user --no-permissions"
+alias cd="z"
+alias cat="bat"
+alias ls="eza --color=always --long --git --no-filesize --icons=always --no-time --no-user --no-permissions"
